@@ -5,34 +5,38 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD Candidate in Aquatic and Fishery Science
-    institution: University of Washington
-  - course: BA in Biology
-    institution: Boston University
-    year: 2015
-email: meganlfeddern@gmail.com
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
+email: ""
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Megan Feddern
+name: Nelson Bighetti
 organizations:
-- name: University of Washington
+- name: Stanford University
   url: ""
-role: Ph.D Candidate
+role: Professor of Artificial Intelligence
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: instagram
+- icon: twitter
   icon_pack: fab
-  link: https://www.instagram.com/meg.fedd/
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=J8DoyYcAAAAJ&hl=en
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/mfeddern
+  link: https://github.com/gcushen
 superuser: true
 user_groups:
 - Researchers
