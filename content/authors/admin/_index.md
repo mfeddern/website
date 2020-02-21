@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: University of Washington
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -19,11 +19,11 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Megan Feddern
 organizations:
 - name: Stanford University
   url: ""
-role: Professor of Artificial Intelligence
+role: Ph.D Candidate
 social:
 - icon: envelope
   icon_pack: fas
