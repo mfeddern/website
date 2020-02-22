@@ -16,5 +16,10 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 2
-+++
 
+
+# Folliwng taken from online - might not work
+background = "contact_img.jpg"
+
+
++++
