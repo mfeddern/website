@@ -37,8 +37,8 @@ For example, if you delete this folder, you can remove the following from your m
 
 ```toml
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "CV"
+  url = "cv/"
   weight = 50
 ```
 
