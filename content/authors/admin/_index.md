@@ -19,11 +19,11 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Megan Feddern
 organizations:
-- name: Stanford University
+- name: University of Washington
   url: ""
-role: Professor of Artificial Intelligence
+role: Ph.D Candidate
 social:
 - icon: envelope
   icon_pack: fas
