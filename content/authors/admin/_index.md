@@ -20,9 +20,10 @@ name: Megan Feddern
 organizations:
 - name: University of Washington
   url: ""
+- name: NMFS-Sea Grant Population and Ecosystem Dynamics Fellow
+  url: "https://seagrant.noaa.gov/NMFS-SG-Fellowship"
 role: Ph.D Candidate
-role: NMFS-Sea Grant Population and Ecosystem Dynamics Fellow
-link: https://seagrant.noaa.gov/NMFS-SG-Fellowship
+
 social:
 - icon: envelope
   icon_pack: fas
