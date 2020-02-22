@@ -21,7 +21,7 @@ organizations:
 - name: University of Washington
   url: ""
 role: Ph.D Candidate
-role:NMFS-Sea Grant Population and Ecosystem Dynamics Fellow
+role: NMFS-Sea Grant Population and Ecosystem Dynamics Fellow
 link: https://seagrant.noaa.gov/NMFS-SG-Fellowship
 social:
 - icon: envelope
