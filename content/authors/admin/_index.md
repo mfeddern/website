@@ -13,7 +13,7 @@ education:
 email: meganlfeddern@gmail.com
 interests:
 - Food web dynamics
-- Integrated ecosystem assessments
+- Biogeochemistry
 - Quantitative methods
 - Escaping the city
 name: Megan Feddern
@@ -21,6 +21,8 @@ organizations:
 - name: University of Washington
   url: ""
 role: Ph.D Candidate
+role:NMFS-Sea Grant Population and Ecosystem Dynamics Fellow
+link: https://seagrant.noaa.gov/NMFS-SG-Fellowship
 social:
 - icon: envelope
   icon_pack: fas
