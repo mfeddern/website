@@ -3,11 +3,11 @@ abstract: This paper presents a novel approach for assessing sources selectivity
 
 authors:
 - Megan Feddern
--Hannah R. Bassett
--Katherine N. McElroy
--Marta Ree
--Marcus Gho
--Ray Hilborn
+- Hannah R. Bassett
+- Katherine N. McElroy
+- Marta Ree
+- Marcus Gho
+- Ray Hilborn
 date: "2018-07-12T00:00:00Z"
 doi: "https://doi.org/10.1139/cjfas-2018-0018"
 featured: false
