@@ -22,7 +22,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides: 
 summary: We developed a method for assessing length and residual program selectivity for Port Moller test fishery.
 tags:
 - Source Themes
