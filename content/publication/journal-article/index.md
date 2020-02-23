@@ -8,8 +8,9 @@ authors:
 - M. Ree
 - M. Gho
 - R. Hilborn
+
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1139/cjfas-2018-0018"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
