@@ -40,6 +40,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mfeddern
+- icon: publons
+  icon_pack: ai
+  link: 'https://publons.com/researcher/1717663/megan-feddern/
 superuser: true
 user_groups:
 - Researchers
