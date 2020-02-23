@@ -9,7 +9,7 @@ authors:
 - M. Gho
 - R. Hilborn
 
-date: "2015-09-01T00:00:00Z"
+date: "2018-01-01T00:00:00Z"
 doi: "https://doi.org/10.1139/cjfas-2018-0018"
 featured: false
 image:
@@ -21,7 +21,7 @@ publication: '*Canadian Journal Fisheries and Aquatic Sciences*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 slides: 
 summary: We developed a method for assessing length and residual program selectivity for Port Moller test fishery.
 tags:
