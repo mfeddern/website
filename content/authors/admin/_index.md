@@ -2,7 +2,7 @@
 authors:
 - admin
 bio: 
-  matter.
+University of Washington
 education:
   courses:
   - course: PhD Candidate
