@@ -3,7 +3,11 @@ abstract:
 
 authors:
 - M.L. Feddern
-- Robert Ford
+- H.R. Bassett
+- K.N. McElroy
+- M. Ree
+- M. Gho
+- R. Hilborn
 date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
