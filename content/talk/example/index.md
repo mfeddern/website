@@ -21,7 +21,7 @@ links:
 location: Flying Bike Brewery
 math: true
 projects:
-- internal-project
+#- internal-project
 publishDate: "2019-12-03T00:00:00Z"
 slides: 
 summary: Impacts of climate change on fisheries in the Pacific Northwest.
