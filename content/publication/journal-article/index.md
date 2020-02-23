@@ -2,7 +2,6 @@
 abstract: This paper presents a novel approach for assessing sources selectivity in test fisheries using the Port Moller test fishery (PMTF) as a case study. The PMTF intercepts sockeye salmon (Oncorhynchus nerka) migrating to Bristol Bay, Alaska, to estimate run strength and timing. In 2011, the mesh size of gillnets used in the test fishery was decreased for half of the net panels to generate more accurate run estimates by correcting for greater selectivity of larger 3-ocean fish (fish that have spent 3 years in the ocean) relative to smaller 2-ocean fish (fish that have spent 2 years in the ocean). Here, we quantify two sources of age selectivity in the PMTF program, length selectivity parameterized by mean fish length (which should be corrected by the net mesh change) and length-independent selectivity, which we refer to as residual program selectivity (which would not be impacted by the net mesh change), both before and after the net change. Model parameters of selectivity show strong support length selectivity was eliminated, but residual program selectivity still existed after the reduction in net mesh size. Our results demonstrate the necessity of considering both vulnerability and accessibility to fishing gear when assessing selectivity in test fisheries.
 
 authors:
-- admin
 - Megan Feddern
 -Hannah R. Bassett
 -Katherine N. McElroy
