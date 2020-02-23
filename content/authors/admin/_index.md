@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: 
-University of Washington
+bio: University of Washington
 education:
   courses:
   - course: PhD Candidate
