@@ -5,7 +5,7 @@ name = "Custom"
 light = false
 
 # Primary
-primary = "rgb(228, 210, 229)"
+primary = "rgb(169, 137, 173)"
 
 # Menu
 menu_primary = "rgb(247, 247, 247)"
