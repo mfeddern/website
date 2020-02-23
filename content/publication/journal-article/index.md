@@ -12,10 +12,7 @@ authors:
 date: "2015-09-01T00:00:00Z"
 doi: "https://doi.org/10.1139/cjfas-2018-0018"
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+image: "Feddern2018.jpg"
 projects: []
 publication: '*Canadian Journal Fisheries and Aquatic Sciences*'
 publication_short: ""
