@@ -28,9 +28,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: instagram
+- icon: linkedin
   icon_pack: fab
-  link: https://www.instagram.com/meg.fedd/
+  link: https://www.linkedin.com/in/megan-feddern-80206a10a/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=J8DoyYcAAAAJ&hl=en
