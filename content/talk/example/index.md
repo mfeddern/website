@@ -1,47 +1,39 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract:
 address:
-  city: Stanford
+  city: Seattle
   country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  postcode: 
+  region: WA
+  street: Flying Bike Brewery
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Academic Theme Conference
-event_url: https://example.org
+date: "2019-12-03T19:00:00Z"
+date_end: "2019-12-03T20:30:00Z"
+event: Climate Science on Tap
+event_url: http://cascadiaclimateaction.org/the-schooner-series/
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-location: Source Themes HQ
+
+location: Climate Science on Tap
 math: true
 projects:
 - internal-project
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: An example talk using Academic's Markdown slides feature.
+publishDate: "2019-12-03T00:00:00Z"
+slides: 
+summary: Impacts of climate change on fisheries in the Pacific Northwest.
 tags: []
-title: Example Talk
+title: Climate Change and PNW Fisheries
 url_code: ""
-url_pdf: ""
+url_pdf: "ClimateScienceonTapFeddern.pdf"
 url_slides: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
+
 
 Slides can be added in a few ways:
 
