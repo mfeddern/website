@@ -11,7 +11,7 @@ authors: []
 date: 
 date_end: 
 position: Teaching Assistnat
-event_url: http://cascadiaclimateaction.org/the-schooner-series/
+event_url: 
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
