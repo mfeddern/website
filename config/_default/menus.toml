@@ -27,7 +27,7 @@
 [[main]]
   name = "SciCom"
   url = "#SciCom"
-  weight = 50
+  weight = 60
   
 [[main]]
   name = "Contact"
