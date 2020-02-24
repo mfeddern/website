@@ -25,12 +25,12 @@ Seattle, WA
 Boston University
 ---
 Quito, Ecuador
-[Tropical Ecology Program](https://www.bu.edu/cecb/tep/)
+[Tropical Ecology Program](https://www.bu.edu/cecb/tep/)  
 **Teaching Assistant**, Spring 2016  
-Tropical Montane Ecology (BI 438)  
+*Tropical Montane Ecology (BI 438)  
 Tropical Coastal Ecology (BI 440)  
 Tropical Rainforest Ecology (BI 439)  
-Studies in Tropical Ecology (BI 441, Capstone Course)
+Studies in Tropical Ecology (BI 441, Capstone Course)*
 
 ---
 Boston University
@@ -38,5 +38,5 @@ Boston University
 [Educational Resource Center](https://www.bu.edu/erc/)
 Boston, MA  
 **Tutor**, 2013-2015  
-Organic Chemistry (CH 203/204)  
-Statistics (MA 213)
+*Organic Chemistry (CH 203/204)  
+Statistics (MA 213)*
