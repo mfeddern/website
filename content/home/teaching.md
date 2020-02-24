@@ -23,9 +23,9 @@ University of Washington
 ---
 Boston University
 ---
+**Teaching Assistant**, Spring 2016  
 [Tropical Ecology Program](https://www.bu.edu/cecb/tep/)  
-**Teaching Assistant**, Spring 2016
-  
+
 Tropical Montane Ecology (BI 438)  
 Tropical Coastal Ecology (BI 440)  
 Tropical Rainforest Ecology (BI 439)  
@@ -34,8 +34,8 @@ Studies in Tropical Ecology (BI 441, Capstone Course)
 ---
 Boston University
 ---
-[Educational Resource Center](https://www.bu.edu/erc/)  
 **Tutor**, 2013-2015 
-  
+[Educational Resource Center](https://www.bu.edu/erc/) 
+
 Organic Chemistry (CH 203/204)  
 Statistics (MA 213)
