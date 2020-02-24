@@ -17,14 +17,15 @@ weight = 60
 ---
 Puget Sound Institute 
 ---
-**Student Writer**
+**Student Writer**  
 [Creosote Treated Pilings](https://www.eopugetsound.org/magazine/ssec2018/pilings)
 
 ---
 Cascadia Climate Action
 ---
+**Graduate Student Speaker**  
 [Climate Science on Tap](http://cascadiaclimateaction.org/the-schooner-series/)  
-**Graduate Student Speaker**
+
   
 
 ---
