@@ -17,8 +17,8 @@ weight = 50
 ---
 University of Washington
 ---
-Seattle, WA
-**Teaching Assistant**, Autumn 2017
+Seattle, WA  
+**Teaching Assistant**, Autumn 2017  
 [Conservation and Management of Aquatic Resources (FSH 323)](https://fish.uw.edu/wp-content/uploads/sites/4/2019/08/Syllabus-FISH323_AUT2018.pdf)
 
 ---
