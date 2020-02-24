@@ -32,7 +32,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 80
   
 
 
@@ -42,4 +42,4 @@
 [[main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 70
+    weight = 90
