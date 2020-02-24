@@ -20,7 +20,7 @@ projects: []
 publication: '*Fish and Fisheries*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2018-06-01T00:00:00Z"
 slides: 
 summary: We assessed approaches that managers use to sustain stocks on ecological, economic, and community-level outcomes.

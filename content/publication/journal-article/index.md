@@ -20,7 +20,7 @@ projects: []
 publication: '*Ecosphere*'
 publication_short: ""
 publication_types:
-- "1"
+- "2"
 publishDate: "2019-09-01T00:00:00Z"
 slides: 
 summary: We measured the contribution of Pacific salmon to nitrogen transformations and concentrations to riparian boreal soils.
