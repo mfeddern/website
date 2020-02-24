@@ -34,7 +34,7 @@ Studies in Tropical Ecology (BI 441, Capstone Course)
 ---
 Boston University
 ---
-**Tutor**, 2013-2015 
+**Tutor**, 2013-2015  
 [Educational Resource Center](https://www.bu.edu/erc/) 
 
 Organic Chemistry (CH 203/204)  
