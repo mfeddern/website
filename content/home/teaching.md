@@ -28,7 +28,7 @@ Quito, Ecuador
 [Tropical Ecology Program](https://www.bu.edu/cecb/tep/)
 
 **Teaching Assistant**, Spring 2016
-\Tropical Montane Ecology (BI 438)
+\\Tropical Montane Ecology (BI 438)
 Tropical Coastal Ecology (BI 440)
 Tropical Rainforest Ecology (BI 439)
 Stidies in Tropical Ecology (BI 441, Capstone Course)
