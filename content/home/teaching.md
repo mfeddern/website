@@ -14,18 +14,20 @@ subtitle = ""
 weight = 50
 
 +++
-
+---
 University of Washington
 ---
+Seattle, WA
 
 **Teaching Assistant**, Autumn 2017
-
 
 [Conservation and Management of Aquatic Resources (FSH 323)](https://fish.uw.edu/wp-content/uploads/sites/4/2019/08/Syllabus-FISH323_AUT2018.pdf)
 
 ---
 Boston University
 ---
+Quito, Ecuador
+
 [Tropical Ecology Program](https://www.bu.edu/cecb/tep/)
 
 **Teaching Assistant**, Spring 2016
@@ -33,3 +35,13 @@ Tropical Montane Ecology (BI 438)
 Tropical Coastal Ecology (BI 440)
 Tropical Rainforest Ecology (BI 439)
 Stidies in Tropical Ecology (BI 441, Capstone Course)
+
+---
+Boston University
+---
+[Educational Resource Center](https://www.bu.edu/erc/)
+Boston, MA
+
+**Tutor**, 2013-2015
+Organic Chemistry (CH 203/204)
+Statistics (MA 213)
