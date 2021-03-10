@@ -18,7 +18,7 @@ image:
   focal_point: Right
 links:
 
-location: Flying Bike Brewery
+location: Climate Science on Tap
 math: true
 projects:
 #- internal-project
