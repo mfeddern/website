@@ -21,7 +21,7 @@ image:
   focal_point: Right
 links:
 
-location: University of Washington
+location: Graduate and Professional Student Senate Academic Conference
 math: true
 projects:
 #- internal-project
