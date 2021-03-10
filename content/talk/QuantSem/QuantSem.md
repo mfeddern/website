@@ -29,7 +29,7 @@ publishDate: "2021-02-26T00:00:00Z"
 slides: 
 summary: 
 tags: []
-title: Ecosystem chemistry
+title: "Ecosystem chemistry: Reconstructing a century of pinniped trophic position and biogeochemical indices in the northeast Pacific using archival museum specimens"
 url_code: ""
 url_pdf: "QuantitativeSeminar2021.pdf"
 url_slides: ""
