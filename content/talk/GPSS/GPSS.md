@@ -21,7 +21,7 @@ image:
   focal_point: Right
 links:
 
-location: Virtual Conference
+location: University of Washington
 math: true
 projects:
 #- internal-project
