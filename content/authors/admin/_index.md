@@ -14,6 +14,7 @@ interests:
 - Food web dynamics
 - Biogeochemistry
 - Quantitative methods
+- Data Science and Visualization
 - Escaping the city
 name: Megan Feddern
 organizations:
