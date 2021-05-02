@@ -29,3 +29,13 @@ Cascadia Climate Action
   
 
 ---
+Press Coverage
+---
+[Long Live the Kings](https://lltk.org/using-museum-specimens-to-learn-about-harbor-seals-role-in-the-environment/)  
+
+[Encyclopedia of Puget Sound](https://www.eopugetsound.org/magazine/IS/harbor-seal-skulls)  
+
+[Press Release](https://fish.uw.edu/2021/04/harbor-seal-skulls-provide-clues-to-puget-sounds-past-food-webs/)  
+  
+
+---
