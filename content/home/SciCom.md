@@ -35,6 +35,9 @@ Press Coverage
 
 [Encyclopedia of Puget Sound](https://www.eopugetsound.org/magazine/IS/harbor-seal-skulls)  
 
+[Puget Sound Partnership](https://qrc.uw.edu/wp-content/uploads/sites/19/2019/04/SH-Seal-Skulls-Fact-Sheet.pdf)
+Research Fact Sheet
+
 [Press Release](https://fish.uw.edu/2021/04/harbor-seal-skulls-provide-clues-to-puget-sounds-past-food-webs/)  
   
 
