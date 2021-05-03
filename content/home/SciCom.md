@@ -26,7 +26,8 @@ Cascadia Climate Action
 **Graduate Student Speaker**  
 [Climate Science on Tap](http://cascadiaclimateaction.org/the-schooner-series/)  
 ---
-**Puget Sound Partnership**
+Puget Sound Partnership
+---
 [Research Fact Sheet](https://qrc.uw.edu/wp-content/uploads/sites/19/2019/04/SH-Seal-Skulls-Fact-Sheet.pdf)
 
   
