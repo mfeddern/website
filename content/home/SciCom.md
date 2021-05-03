@@ -25,20 +25,21 @@ Cascadia Climate Action
 ---
 **Graduate Student Speaker**  
 [Climate Science on Tap](http://cascadiaclimateaction.org/the-schooner-series/)  
+  
+---
+Washington Department of Commerce
+---
+**White Paper Author**
 
+[Community Solar Legislation Considerations](10.13140/RG.2.2.28538.03520/2)
+
+ 
 ---
 Puget Sound Partnership
 ---
 [Research Fact Sheet](https://qrc.uw.edu/wp-content/uploads/sites/19/2019/04/SH-Seal-Skulls-Fact-Sheet.pdf)
 
-  
----
-Washington Department of Commerce
----
-**White Paper Author** 
-[Community Solar Legislation Considerations](10.13140/RG.2.2.28538.03520/2)
 
- 
 ---
 Press Coverage
 ---
