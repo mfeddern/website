@@ -25,6 +25,7 @@ Cascadia Climate Action
 ---
 **Graduate Student Speaker**  
 [Climate Science on Tap](http://cascadiaclimateaction.org/the-schooner-series/)  
+
 ---
 Puget Sound Partnership
 ---
