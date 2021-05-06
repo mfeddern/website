@@ -33,7 +33,12 @@ Washington Department of Commerce
 
 [Community Solar Legislation Considerations](10.13140/RG.2.2.28538.03520/2)
 
+---
+Ecodispatch
+---
  
+[Podcast Guest](https://ecodispatchuwcoe.wixsite.com/ecodispatch/episodes)  
+  
 ---
 Puget Sound Partnership
 ---
