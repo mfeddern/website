@@ -4,7 +4,7 @@ authors:
 bio: University of Washington
 education:
   courses:
-  - course: PhD 
+  - course: PhD in Aquatic and Fishery Sciences
     institution: University of Washington
     year: 2021
   - course: BA in Biology
