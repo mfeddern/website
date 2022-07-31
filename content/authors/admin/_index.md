@@ -54,4 +54,5 @@ Megan is a postdoctoral researcher at University of Alaska in the </a> <a href="
 Megan is originally from the White Mountains of NH and moved to Seattle for graduate school after spending a few field seasons moving around the country and abroad. Outside of research Megan enjoys anything outdoors, particularly new activities that get her outside of her comfort zone and require problem solving. Backpacking, snowboarding, and trail running is how she spends her time outside of the office.
 
 **Interested in a publication I have authored or co-authored?**
-*Contact me below or on researchgate!*
+
+*Contact me below or on </a> <a href= "https://www.researchgate.net/profile/Megan-Feddern"> ResearchGate</a>*
