@@ -48,6 +48,8 @@ Puget Sound Partnership
 ---
 Press Coverage
 ---
+[NOAA Fisheries Story Map](https://storymaps.arcgis.com/stories/d9a81c21abef4c5bb590301e230548b6) 
+
 [Long Live the Kings](https://lltk.org/using-museum-specimens-to-learn-about-harbor-seals-role-in-the-environment/)  
 
 [Encyclopedia of Puget Sound](https://www.eopugetsound.org/magazine/IS/harbor-seal-skulls)  
