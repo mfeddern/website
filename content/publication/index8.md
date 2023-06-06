@@ -32,9 +32,10 @@ tags:
 - Source Themes
 title: Kings of the North: Bridging Disciplines to Understand the Effects of Changing Climate on Chinook Salmon in the Arctic–Yukon–Kuskokwim Region
 
+
 url_code: ""
 url_dataset: ""
-url_pdf: "Feddern2023.pdf"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
