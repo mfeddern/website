@@ -30,12 +30,12 @@ summary: Understanding how species are responding to environmental change is a c
 
 tags:
 - Source Themes
-title: Kings of the North: Bridging Disciplines to Understand the Effects of Changing Climate on Chinook Salmon in the Arctic–Yukon–Kuskokwim Region
+title: Kings of the North Bridging Disciplines to Understand the Effects of Changing Climate on Chinook Salmon in the Arctic–Yukon–Kuskokwim Region
 
 
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "Feddern2023.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
