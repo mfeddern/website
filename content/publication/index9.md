@@ -15,7 +15,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Fisheries*'
+publication: '*Limnology and Oceanography: Methods*'
 publication_short: ""
 publication_types:
 - "2"
@@ -28,7 +28,7 @@ title: The influence of dynamic resources and stable isotope incorporation rates
 
 url_code: ""
 url_dataset: ""
-url_pdf: "Feddern2023.pdf"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
