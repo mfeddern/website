@@ -17,13 +17,13 @@ weight = 60
 ---
 Puget Sound Institute 
 ---
-**Student Writer**  
+**Guest Writer**  
 [Creosote Treated Pilings](https://www.eopugetsound.org/magazine/ssec2018/pilings)
 
 ---
 Cascadia Climate Action
 ---
-**Graduate Student Speaker**  
+**Guest Speaker**  
 [Climate Science on Tap](http://cascadiaclimateaction.org/the-schooner-series/)  
   
 ---
@@ -48,6 +48,10 @@ Puget Sound Partnership
 ---
 Press Coverage
 ---
+[Alaska Beacon](https://alaskabeacon.com/2024/12/06/small-fish-size-linked-to-poorer-runs-of-chinook-in-alaskas-biggest-rivers/)
+
+[KYUK & KTOO](https://www.ktoo.org/2024/12/11/uaf-salmon-productivity-study-looks-to-local-experts-as-guides/)
+
 [NOAA Fisheries Story Map](https://storymaps.arcgis.com/stories/d9a81c21abef4c5bb590301e230548b6) 
 
 [Long Live the Kings](https://lltk.org/using-museum-specimens-to-learn-about-harbor-seals-role-in-the-environment/)  
@@ -57,5 +61,4 @@ Press Coverage
 
 [University of Washington Research Spotlight](https://fish.uw.edu/2021/04/harbor-seal-skulls-provide-clues-to-puget-sounds-past-food-webs/)  
   
-
 ---
