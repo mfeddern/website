@@ -3,17 +3,17 @@ abstract:
 
 
 address:
-  city: Honolulu
-  country: United States
+  city: Dawson
+  country: Canada
   postcode: 
-  region: HI
+  region: 
   street: 
 all_day: false
 authors: []
-date: "2024-09-13T00:00:00Z"
-date_end: "2024-09-13T00:00:00Z"
-event: American Fisheries Society 155th Annual Meeting
-event_url: https://afsannualmeeting2024.fisheries.org/
+date: "2025-04-10T00:00:00Z"
+date_end: "2025-04-10T00:00:00Z"
+event: Yukon River Panel 2025 Pre-Season Meeting
+event_url: https://www.yukonriverpanel.com/news-and-announcements/yukon-river-panel-2024-post-season-meeting-and-2025-pre-season-meeting/
 
 featured: false
 image:
@@ -21,15 +21,15 @@ image:
   focal_point: Right
 links:
 
-location: American Fisheries Society 155th Annual Meeting
+location: Yukon River Panel 2025 Pre-Season Meeting
 math: true
 projects:
 #- internal-project
-publishDate: "2024-09-13T00:00:00Z"
+publishDate: "2025-04-10T00:00:00Z"
 slides: 
 summary: 
 tags: []
-title: "Body size and early marine conditions drive changes in Chinook salmon productivity across northern latitude ecosystems"
+title: "Drivers and Diversity of Chinook Salmon Productivity"
 url_code: ""
 url_pdf: ""
 url_slides: ""

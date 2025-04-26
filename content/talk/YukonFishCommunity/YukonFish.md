@@ -4,7 +4,7 @@ abstract:
 
 address:
   city: Yukon
-  country: United States / Canadao
+  country: United States / Canada
   postcode: 
   region: 
   street: 
@@ -21,7 +21,7 @@ image:
   focal_point: Right
 links:
 
-location: Yukon Fish COmmunity of Practice Speaker Series
+location: Yukon Fish Community of Practice Speaker Series
 math: true
 projects:
 #- internal-project
