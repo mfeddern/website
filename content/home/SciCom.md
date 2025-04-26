@@ -15,6 +15,22 @@ weight = 60
 
 +++
 ---
+Press Coverage
+---
+[Alaska Beacon](https://alaskabeacon.com/2024/12/06/small-fish-size-linked-to-poorer-runs-of-chinook-in-alaskas-biggest-rivers/)
+
+[KYUK & KTOO](https://www.ktoo.org/2024/12/11/uaf-salmon-productivity-study-looks-to-local-experts-as-guides/)
+
+[NOAA Fisheries Story Map](https://storymaps.arcgis.com/stories/d9a81c21abef4c5bb590301e230548b6) 
+
+[Long Live the Kings](https://lltk.org/using-museum-specimens-to-learn-about-harbor-seals-role-in-the-environment/)  
+
+[Encyclopedia of Puget Sound](https://www.eopugetsound.org/magazine/IS/harbor-seal-skulls)  
+
+
+[University of Washington Research Spotlight](https://fish.uw.edu/2021/04/harbor-seal-skulls-provide-clues-to-puget-sounds-past-food-webs/)  
+
+---
 Puget Sound Institute 
 ---
 **Guest Writer**  
@@ -43,22 +59,4 @@ Ecodispatch
 Puget Sound Partnership
 ---
 [Research Fact Sheet](https://qrc.uw.edu/wp-content/uploads/sites/19/2019/04/SH-Seal-Skulls-Fact-Sheet.pdf)
-
-
----
-Press Coverage
----
-[Alaska Beacon](https://alaskabeacon.com/2024/12/06/small-fish-size-linked-to-poorer-runs-of-chinook-in-alaskas-biggest-rivers/)
-
-[KYUK & KTOO](https://www.ktoo.org/2024/12/11/uaf-salmon-productivity-study-looks-to-local-experts-as-guides/)
-
-[NOAA Fisheries Story Map](https://storymaps.arcgis.com/stories/d9a81c21abef4c5bb590301e230548b6) 
-
-[Long Live the Kings](https://lltk.org/using-museum-specimens-to-learn-about-harbor-seals-role-in-the-environment/)  
-
-[Encyclopedia of Puget Sound](https://www.eopugetsound.org/magazine/IS/harbor-seal-skulls)  
-
-
-[University of Washington Research Spotlight](https://fish.uw.edu/2021/04/harbor-seal-skulls-provide-clues-to-puget-sounds-past-food-webs/)  
-  
 ---
